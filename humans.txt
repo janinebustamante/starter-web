@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Janine Bustamante   janine@mail.com @janinebustamante
 
 # THANKS
 
